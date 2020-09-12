@@ -1,4 +1,4 @@
-# Brand Name of Filament
+# Overture PETG Green
 
 ## Stats
 
