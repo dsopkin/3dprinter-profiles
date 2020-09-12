@@ -27,7 +27,7 @@ Awesome filament once you get the temperature tuned correctly. Printed at 0.2mm 
 
 
 ### Recommended Temps
-230C (nozzle) (anything above 240C will create noxious fumes that have to be ventilated)
+230C (nozzle) (anything above 240C will create noxious fumes that have to be ventilated)  
 80C (bed)
 
 ### Adhesion
