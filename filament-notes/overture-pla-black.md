@@ -1,4 +1,4 @@
-# Brand Name of Filament
+# Overture Black PLA
 
 ## Stats
 
