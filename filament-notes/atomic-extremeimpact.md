@@ -29,7 +29,8 @@ $34.99
 Adhesion is tricky, but the raft works well. Also have tried "initial fan speed" at 0 and regular fan speed at 4, that seems to work although like other times the model seems to stick too well to the raft.
 
 ### Quality
-Near-perfect,however overhanging ledges are not perfectly smooth. 
+Near-perfect, however overhanging ledges are not perfectly smooth.
+
 ### Settings
 
 ### Other Notes
