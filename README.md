@@ -2,8 +2,12 @@
 
 Adapted from sources cited below.
 
-These are the profiles I have found to work for printing PLA and PETG.
+These are the profiles I have found to work for printing PLA and PETG. I outline further changes here
 
+http://www.sopkin.net/3d-printing/getting-started-with-3d-printing 
+
+\
+&nbsp;
 
 # 3D Printing Setup
 
@@ -18,6 +22,8 @@ Creality Ender 3 Pro
 - Octoprint w/ Raspberry Pi 2
 - Creality printing enclosure
 
+\
+&nbsp;
 
 ## Slicer/3D workflow
 Ultimaker Cura v4.6.2
@@ -31,6 +37,9 @@ https://www.chepclub.com/cura-profiles.html
 #### @mjg2688 / Ender-3-Profiles
 Used this profile specifically with PETG filament
 https://github.com/mjg2688/Ender-3-Profiles
+
+\
+&nbsp;
 
 ## Other Helpful Links
 ### Reddit PETG post
