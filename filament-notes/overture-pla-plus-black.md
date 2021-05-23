@@ -1,4 +1,4 @@
-# Overture Black PLA
+# Overture Black PLA Plus
 
 ## Stats
 
@@ -22,8 +22,8 @@ Amazon
 ## Notes
 
 ### Temps
-205C (nozzle)
-55C (bed)
+210C (nozzle)
+60C (bed)
 
 ### Adhesion
 Great adhesion qualities
@@ -35,4 +35,3 @@ High quality - makes for really nice prints
 ### Settings
 
 ### Other Notes
-Also applies to Overture White PLA
