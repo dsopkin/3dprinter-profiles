@@ -1,4 +1,4 @@
-; Ender 3 Custom Start G-code
+; Ender 3 Pro Custom Start G-code
 G92 E0 ; Reset Extruder
 G28 ; Home all axes
 G1 Z2.0 F3000 ; Move Z Axis up little to prevent scratching of Heat Bed
@@ -10,7 +10,7 @@ G92 E0 ; Reset Extruder
 G1 Z2.0 F3000 ; Move Z Axis up little to prevent scratching of Heat Bed
 G1 X5 Y20 Z0.3 F5000.0 ; Move over to prevent blob squish
 
-; Ender 3 Custom End G-code
+; Ender 3 Pro Custom End G-code
 G91 ;Relative positioning
 G1 E-2 F2700 ;Retract a bit
 G1 E-2 Z0.2 F2400 ;Retract and raise Z
